@@ -1,0 +1,24 @@
+/home/deny/Documents/FPOO/serializacao_bin/bin/Debug/netcoreapp3.1/serializacao_bin
+/home/deny/Documents/FPOO/serializacao_bin/bin/Debug/netcoreapp3.1/serializacao_bin.deps.json
+/home/deny/Documents/FPOO/serializacao_bin/bin/Debug/netcoreapp3.1/serializacao_bin.runtimeconfig.json
+/home/deny/Documents/FPOO/serializacao_bin/bin/Debug/netcoreapp3.1/serializacao_bin.runtimeconfig.dev.json
+/home/deny/Documents/FPOO/serializacao_bin/bin/Debug/netcoreapp3.1/serializacao_bin.dll
+/home/deny/Documents/FPOO/serializacao_bin/bin/Debug/netcoreapp3.1/serializacao_bin.pdb
+/home/deny/Documents/FPOO/serializacao_bin/obj/Debug/netcoreapp3.1/serializacao_bin.csprojAssemblyReference.cache
+/home/deny/Documents/FPOO/serializacao_bin/obj/Debug/netcoreapp3.1/serializacao_bin.AssemblyInfoInputs.cache
+/home/deny/Documents/FPOO/serializacao_bin/obj/Debug/netcoreapp3.1/serializacao_bin.AssemblyInfo.cs
+/home/deny/Documents/FPOO/serializacao_bin/obj/Debug/netcoreapp3.1/serializacao_bin.dll
+/home/deny/Documents/FPOO/serializacao_bin/obj/Debug/netcoreapp3.1/serializacao_bin.pdb
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_bin\bin\Debug\netcoreapp3.1\serializacao_bin.exe
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_bin\bin\Debug\netcoreapp3.1\serializacao_bin.deps.json
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_bin\bin\Debug\netcoreapp3.1\serializacao_bin.runtimeconfig.json
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_bin\bin\Debug\netcoreapp3.1\serializacao_bin.runtimeconfig.dev.json
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_bin\bin\Debug\netcoreapp3.1\serializacao_bin.dll
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_bin\bin\Debug\netcoreapp3.1\serializacao_bin.pdb
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_bin\obj\Debug\netcoreapp3.1\serializacao_bin.csprojAssemblyReference.cache
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_bin\obj\Debug\netcoreapp3.1\serializacao_bin.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_bin\obj\Debug\netcoreapp3.1\serializacao_bin.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_bin\obj\Debug\netcoreapp3.1\serializacao_bin.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_bin\obj\Debug\netcoreapp3.1\serializacao_bin.dll
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_bin\obj\Debug\netcoreapp3.1\serializacao_bin.pdb
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_bin\obj\Debug\netcoreapp3.1\serializacao_bin.genruntimeconfig.cache

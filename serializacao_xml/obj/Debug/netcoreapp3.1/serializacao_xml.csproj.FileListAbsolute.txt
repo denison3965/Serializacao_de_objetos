@@ -1,0 +1,24 @@
+/home/deny/Documents/FPOO/serializacao_xml/bin/Debug/netcoreapp3.1/serializacao_xml
+/home/deny/Documents/FPOO/serializacao_xml/bin/Debug/netcoreapp3.1/serializacao_xml.deps.json
+/home/deny/Documents/FPOO/serializacao_xml/bin/Debug/netcoreapp3.1/serializacao_xml.runtimeconfig.json
+/home/deny/Documents/FPOO/serializacao_xml/bin/Debug/netcoreapp3.1/serializacao_xml.runtimeconfig.dev.json
+/home/deny/Documents/FPOO/serializacao_xml/bin/Debug/netcoreapp3.1/serializacao_xml.dll
+/home/deny/Documents/FPOO/serializacao_xml/bin/Debug/netcoreapp3.1/serializacao_xml.pdb
+/home/deny/Documents/FPOO/serializacao_xml/obj/Debug/netcoreapp3.1/serializacao_xml.csprojAssemblyReference.cache
+/home/deny/Documents/FPOO/serializacao_xml/obj/Debug/netcoreapp3.1/serializacao_xml.AssemblyInfoInputs.cache
+/home/deny/Documents/FPOO/serializacao_xml/obj/Debug/netcoreapp3.1/serializacao_xml.AssemblyInfo.cs
+/home/deny/Documents/FPOO/serializacao_xml/obj/Debug/netcoreapp3.1/serializacao_xml.dll
+/home/deny/Documents/FPOO/serializacao_xml/obj/Debug/netcoreapp3.1/serializacao_xml.pdb
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_xml\bin\Debug\netcoreapp3.1\serializacao_xml.exe
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_xml\bin\Debug\netcoreapp3.1\serializacao_xml.deps.json
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_xml\bin\Debug\netcoreapp3.1\serializacao_xml.runtimeconfig.json
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_xml\bin\Debug\netcoreapp3.1\serializacao_xml.runtimeconfig.dev.json
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_xml\bin\Debug\netcoreapp3.1\serializacao_xml.dll
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_xml\bin\Debug\netcoreapp3.1\serializacao_xml.pdb
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_xml\obj\Debug\netcoreapp3.1\serializacao_xml.csprojAssemblyReference.cache
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_xml\obj\Debug\netcoreapp3.1\serializacao_xml.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_xml\obj\Debug\netcoreapp3.1\serializacao_xml.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_xml\obj\Debug\netcoreapp3.1\serializacao_xml.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_xml\obj\Debug\netcoreapp3.1\serializacao_xml.dll
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_xml\obj\Debug\netcoreapp3.1\serializacao_xml.pdb
+C:\Users\denis\OneDrive\Área de Trabalho\Serializacao\serializacao_xml\obj\Debug\netcoreapp3.1\serializacao_xml.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/deny/Documents/FPOO/Serializacao_json/bin/Debug/netcoreapp3.1/Serializacao_json
+/home/deny/Documents/FPOO/Serializacao_json/bin/Debug/netcoreapp3.1/Serializacao_json.deps.json
+/home/deny/Documents/FPOO/Serializacao_json/bin/Debug/netcoreapp3.1/Serializacao_json.runtimeconfig.json
+/home/deny/Documents/FPOO/Serializacao_json/bin/Debug/netcoreapp3.1/Serializacao_json.runtimeconfig.dev.json
+/home/deny/Documents/FPOO/Serializacao_json/bin/Debug/netcoreapp3.1/Serializacao_json.dll
+/home/deny/Documents/FPOO/Serializacao_json/bin/Debug/netcoreapp3.1/Serializacao_json.pdb
+/home/deny/Documents/FPOO/Serializacao_json/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/deny/Documents/FPOO/Serializacao_json/obj/Debug/netcoreapp3.1/Serializacao_json.csprojAssemblyReference.cache
+/home/deny/Documents/FPOO/Serializacao_json/obj/Debug/netcoreapp3.1/Serializacao_json.AssemblyInfoInputs.cache
+/home/deny/Documents/FPOO/Serializacao_json/obj/Debug/netcoreapp3.1/Serializacao_json.AssemblyInfo.cs
+/home/deny/Documents/FPOO/Serializacao_json/obj/Debug/netcoreapp3.1/Serializacao_json.csproj.CopyComplete
+/home/deny/Documents/FPOO/Serializacao_json/obj/Debug/netcoreapp3.1/Serializacao_json.dll
+/home/deny/Documents/FPOO/Serializacao_json/obj/Debug/netcoreapp3.1/Serializacao_json.pdb
